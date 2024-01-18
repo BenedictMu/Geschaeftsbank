@@ -1,0 +1,14 @@
+C:\Users\groov\Documents\Geschaeftsbank\bin\Debug\net8.0\Geschaeftsbank.exe
+C:\Users\groov\Documents\Geschaeftsbank\bin\Debug\net8.0\Geschaeftsbank.deps.json
+C:\Users\groov\Documents\Geschaeftsbank\bin\Debug\net8.0\Geschaeftsbank.runtimeconfig.json
+C:\Users\groov\Documents\Geschaeftsbank\bin\Debug\net8.0\Geschaeftsbank.dll
+C:\Users\groov\Documents\Geschaeftsbank\bin\Debug\net8.0\Geschaeftsbank.pdb
+C:\Users\groov\Documents\Geschaeftsbank\obj\Debug\net8.0\Geschaeftsbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\groov\Documents\Geschaeftsbank\obj\Debug\net8.0\Geschaeftsbank.AssemblyInfoInputs.cache
+C:\Users\groov\Documents\Geschaeftsbank\obj\Debug\net8.0\Geschaeftsbank.AssemblyInfo.cs
+C:\Users\groov\Documents\Geschaeftsbank\obj\Debug\net8.0\Geschaeftsbank.csproj.CoreCompileInputs.cache
+C:\Users\groov\Documents\Geschaeftsbank\obj\Debug\net8.0\Geschaeftsbank.dll
+C:\Users\groov\Documents\Geschaeftsbank\obj\Debug\net8.0\refint\Geschaeftsbank.dll
+C:\Users\groov\Documents\Geschaeftsbank\obj\Debug\net8.0\Geschaeftsbank.pdb
+C:\Users\groov\Documents\Geschaeftsbank\obj\Debug\net8.0\Geschaeftsbank.genruntimeconfig.cache
+C:\Users\groov\Documents\Geschaeftsbank\obj\Debug\net8.0\ref\Geschaeftsbank.dll
